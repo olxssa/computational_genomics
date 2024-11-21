@@ -1,5 +1,5 @@
 # Computational_Genomics
-*Machine Learning Algorithms for Analysis of Genomics Data*
+*Machine Learning Applications for Analysis of Genomics Data*
 
 1. [Statistics for Genomics](https://github.com/olxssa/Computational_Genomics/blob/main/Module1_Statistics_for_genomics.ipynb):
 * Statistical distributions

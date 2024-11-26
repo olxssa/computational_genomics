@@ -6,11 +6,11 @@
 * Hypothesis testing
 * Linear Models
 
-3. [Unsupervised Learning](https://github.com/olxssa/Computational_Genomics/blob/main/Module2_Unsupervised_Learning.ipynb):
+2. [Unsupervised Learning](https://github.com/olxssa/Computational_Genomics/blob/main/Module2_Unsupervised_Learning.ipynb):
 * Clustering
 * Dimensionality reduction techniques
    
-5. [Supervised Learning](https://github.com/olxssa/Computational_Genomics/blob/main/Module3_Supervised_Learning.ipynb):
+3. [Supervised Learning](https://github.com/olxssa/Computational_Genomics/blob/main/Module3_Supervised_Learning.ipynb):
 * Data pre-processing
 * Classification techniques
 * Regression techniques
@@ -18,8 +18,8 @@
 * Variable importance
 * Regularization
 
-5. [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb):
-Analysis of CpG methylation data from individuals of different ages:
+4. [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb):
+*Analysis of CpG methylation data from individuals of different ages:*
 * Background on CpG methylation influenced by age
 * Data pre-processing
 * Prediction techniques

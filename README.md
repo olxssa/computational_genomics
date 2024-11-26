@@ -18,8 +18,7 @@
 * Variable importance
 * Regularization
 
-4. [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb): <br>
-*Analysis of CpG methylation data from individuals of different ages:*
+4. [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb): *Analysis of CpG methylation data from individuals of different ages*
 * Background on CpG methylation influenced by age
 * Data pre-processing
 * Prediction techniques

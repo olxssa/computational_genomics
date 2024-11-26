@@ -11,10 +11,17 @@
 * Dimensionality reduction techniques
    
 5. [Supervised Learning](https://github.com/olxssa/Computational_Genomics/blob/main/Module3_Supervised_Learning.ipynb):
-* Classification
-* Regression
+* Data pre-processing
+* Classification techniques
+* Regression techniques
+* Model performance evaluation: cross-validation, bootstrap resampling
+* Variable importance
+* Regularization
 
-5. [Final Project](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb):
-Analysis of CpG methylation data influenced by age:
-* Data preprocessing
+5. [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb):
+Analysis of CpG methylation data from individuals of different ages:
+* Background on CpG methylation influenced by age
+* Data pre-processing
 * Prediction techniques
+* Model implementation (RF, NN, LR) and comparison of performances
+* Variable importance

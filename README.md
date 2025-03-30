@@ -1,4 +1,4 @@
-# computational_genomics
+# computational genomics
 *Machine Learning Applications for Analysis of Genomics Data*
 
 Taking part in the M.Sc. Biophysics Module *Systems Biology: Computational Analysis and Interpretation of High-throughput Data* I created this respository to give an overview of the content of the 2-week practical (12/11/2024-24/11/2024) on Computational Genomics. It features three chapters of theory from the book ["Computational Genomics with R"](https://compgenomr.github.io/book/) by Altuna Alkalin (2020) as well as a [Final Report](https://github.com/olxssa/Computational_Genomics/blob/main/Final_Report.ipynb) in which the acquired knowledge was applied to real data:
